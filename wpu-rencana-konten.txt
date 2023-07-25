@@ -2,5 +2,6 @@ Rencana konten
 -video javascript
 *es 6
 *react
+-menambahkan materi data struktur
 -php framework
 -vlogs
