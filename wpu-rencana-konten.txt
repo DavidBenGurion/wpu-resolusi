@@ -1,0 +1,6 @@
+Rencana konten
+-video javascript
+*es 6
+*react
+-php framework
+-vlogs
