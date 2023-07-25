@@ -1,9 +1,7 @@
 Rencana konten
 -video javascript
 *es 6
-*react
-*vue
--menambahkan materi data struktur
+*angular
 -php framework
 *laravel
 -vlogs
